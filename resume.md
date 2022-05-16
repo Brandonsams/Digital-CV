@@ -5,8 +5,9 @@
 line. It is intended to be used for contact details -->
 - <brandonkeithsams@gmail.com>
 - (208) 598-3793
-- [brandonsams.github.io](https://brandonsams.github.io/)
+- [www.linkedin.com/in/-Brandon-Sams-](www.linkedin.com/in/-Brandon-Sams-)
 - West Valley City, UT
+<!-- - [brandonsams.github.io](https://brandonsams.github.io/) -->
 
 <!-- The paragraph after the h1 and ul and before the first h2 is optional. It
 is intended to be used for a short summary. -->
@@ -28,7 +29,7 @@ Data Scientist with experience modeling large scale infrastructure, and working 
 
 ## Career Experience
 
-**Traffic Technology Services**:  2018 - Present
+**Traffic Technology Services**: 2018 - Present
 
 <!-- You have to wrap the "left" and "right" half of these headings in spans by
 hand -->
@@ -49,6 +50,17 @@ hand -->
  - Windows Server System Administration using PowerShell
  - MySQL Database Administration
 
+---
+
+**Nordstrom Distribution Center 89**: 2018
+### <span>Seasonal Package Handler</span> <span>June 2018 - August 2018</span>
+
+ - Worked with teammates to unload inbound shipments
+ - Prioritized safety in the workplace
+ - Efficiently spent time and energy
+ - Communicated with other to solve problems
+ - Packed outbound orders for customers and retail stores
+
 ## Skills
 
  - Object Oriented Programming: C#, Python
@@ -58,5 +70,10 @@ hand -->
  - Strong writing, documentation, and speaking skills
  - Ability to work cooperatively in a team environment
  - Confident with the Microsoft Office Suite of tools, such as Sharepoint, Dynamics, Flow (Power Automate), Excel
+
+## Achievements
+
+ - 2-Time National Collegiate Speech and Debate Champion
+ - International Hult Prize Competitor
 
 ---
