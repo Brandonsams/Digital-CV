@@ -1,56 +1,64 @@
 <!-- The (first) h1 will be used as the <title> of the HTML page -->
 # Brandon Sams
 
-<!-- The unordered list immediately after the h1 will be formatted on a single
-line. It is intended to be used for contact details -->
+<!-- The unordered list immediately after the h1 will be formatted on a single line. It is intended to be used for contact details -->
 - <brandonkeithsams@gmail.com>
-- (208) 598-3793
-- [www.linkedin.com/in/-Brandon-Sams-](www.linkedin.com/in/-Brandon-Sams-)
-- West Valley City, UT
+- (208)598-3793
+- [www.linkedin.com/in/-brandon-sams-](www.linkedin.com/in/-brandon-sams-)
+- Salt Lake City, UT
 <!-- - [brandonsams.github.io](https://brandonsams.github.io/) -->
 
-<!-- The paragraph after the h1 and ul and before the first h2 is optional. It
-is intended to be used for a short summary. -->
+<!-- The paragraph after the h1 and ul and before the first h2 is optional. It is intended to be used for a short summary. -->
 Data Scientist with experience modeling large scale infrastructure, and working on a research and development team.
 
 ## Education
 
 ### <span>Master of Science in Data Science, Bellevue University</span> <span>2019 -- 2021</span>
 
-  - 3.800 GPA
+- 3.800 GPA
 
 ### <span>Bachelor of Science in Mathematics with Minor in Communication, Boise State University</span> <span>2013 -- 2017</span>
 
-  - Speech and Debate 2-Time National Champion 
-  - 3.59 GPA
-  - Honors College Graduate
+- 2-Time National Champion for Competitive Speech and Debate
+- 3.59 GPA
+- Honors College Graduate
 
 ### <span>Valedictorian, Mountain Home Senior High School</span> <span>2009 -- 2013</span>
+
+## Patents
+
+### DERIVING TRAFFIC SIGNAL TIMING PLANS FROM CONNECTED VEHICLE TRAJECTORY DATA
+
+- Developed software that would aggregate historic GPS vehicle data and build models of traffic signal behavior
+- Reduced dependency on parter data being recieved from Advanced Traffic Management Systems
+- Tripled the count of traffic signals being modeled in the United States
+- US Patent No. US-20230013604-A1
+- Publication Date 2023-01-19
 
 ## Career Experience
 
 **Traffic Technology Services**: 2018 - Present
 
-<!-- You have to wrap the "left" and "right" half of these headings in spans by
-hand -->
-### <span>Production Resources Data Scientist / Department Supervisor</span> <span>March 2021 - Present</span>
+<!-- You have to wrap the "left" and "right" half of these headings in spans by hand -->
+### <span>Data Scientist Supervisor / Scrum Master</span> <span>September 2020 - Present</span>
 
- - Designed, implemented, and documented an automated data pipeline for traffic signal model generation
- - Utilized data cleaning methods to ensure model input is complete, accurate, consistent, and uniform
+- Designed, implemented, and documented an automated data pipeline for traffic signal model generation
+- Utilized unsupervised machine learning (EP-Means) to cluster circularly distributed statistical data
+- Worked with domain experts to incorporate their feedback into predictive models
+- Led Agile/Scrum processes for R&D team, including standup, sprint planning, and retrospectives
+- Promoted a culture of transparency, trust, and continuous improvement with communication and leadership skills
+<!-- - Utilized data cleaning methods to ensure model input is complete, accurate, consistent, and uniform -->
 
-### <span>Production Resources Software Developer</span> <span>September 2020 - March 2021</span>
+### <span>DevOps Engineer</span> <span>August 2018 - September 2020</span>
 
- - Utilized machine learning models to infer traffic signal behavior
- - Developed software with team using version control (git)
+- Provided API support for clients using our predictions in their CV2X and Autonomous Vehicle Applications
+- Worked with agencies to establish connectivity to TTS's on-prem cloud hardware and software
+- Developed and implemented quality control metrics for traffic signal predictions
+- Managed production rollout of new internal software releases, including installation and bug reporting
+- Windows Server System Administration using PowerShell
+- MySQL Database Administration
 
-### <span>Production Operations Specialist</span> <span>August 2018 - September 2020</span>
-
- - Worked with agencies to establish Traffic Signal Connectivity
- - Developed and implemented quality control metrics for traffic signal predictions
- - Windows Server System Administration using PowerShell
- - MySQL Database Administration
-
----
+<!-- ---
 
 **Nordstrom Distribution Center 89**: 2018
 ### <span>Seasonal Package Handler</span> <span>June 2018 - August 2018</span>
@@ -59,21 +67,21 @@ hand -->
  - Prioritized safety in the workplace
  - Efficiently spent time and energy
  - Communicated with other to solve problems
- - Packed outbound orders for customers and retail stores
+ - Packed outbound orders for customers and retail stores -->
 
 ## Skills
 
- - Object Oriented Programming: C#, Python
- - Data Visualization: PowerBI, Tableau, R
- - Scripting: Windows Powershell, Bash, Jupyter Notebooks
- - Network tracing: Wireshark
- - Strong writing, documentation, and speaking skills
- - Ability to work cooperatively in a team environment
- - Confident with the Microsoft Office Suite of tools, such as Sharepoint, Dynamics, Flow (Power Automate), Excel
+- Object Oriented Programming: C#, Python
+- Data Visualization: PowerBI, Tableau, R
+- Scripting: Windows Powershell, Bash, Jupyter Notebooks
+- Network tracing: Wireshark
+- Strong writing, documentation, and speaking skills
+- Ability to work cooperatively in a team environment
+- Confident with the Microsoft Office Suite of tools, such as Sharepoint, Dynamics, Flow (Power Automate), Excel
 
-## Achievements
+<!-- ## Achievements
 
- - 2-Time National Collegiate Speech and Debate Champion
- - International Hult Prize Competitor
+- 2-Time National Collegiate Speech and Debate Champion
+- International Hult Prize Competitor
 
----
+--- -->
