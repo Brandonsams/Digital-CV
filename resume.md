@@ -43,7 +43,9 @@ Data Scientist with experience modeling large scale infrastructure, and working 
 ### <span>Data Scientist Supervisor / Scrum Master</span> <span>September 2020 - Present</span>
 
 - Designed, implemented, and documented an automated data pipeline for traffic signal model generation
+- Managed Big Data pipelines with performance in mind, such as with a dataset that grew by 2TB/day
 - Utilized unsupervised machine learning (EP-Means) to cluster circularly distributed statistical data
+- Developed automated system for monitoring prediction quality against user experience of drivers near traffic signals
 - Worked with domain experts to incorporate their feedback into predictive models
 - Led Agile/Scrum processes for R&D team, including standup, sprint planning, and retrospectives
 - Promoted a culture of transparency, trust, and continuous improvement with communication and leadership skills
@@ -53,10 +55,10 @@ Data Scientist with experience modeling large scale infrastructure, and working 
 
 - Provided API support for clients using our predictions in their CV2X and Autonomous Vehicle Applications
 - Worked with agencies to establish connectivity to TTS's on-prem cloud hardware and software
-- Developed and implemented quality control metrics for traffic signal predictions
+- Developed and implemented quality control metrics for traffic signal predictions against incoming status data
 - Managed production rollout of new internal software releases, including installation and bug reporting
-- Windows Server System Administration using PowerShell
-- MySQL Database Administration
+- Windows Server system administration using PowerShell to manage hundreds of servers at a time
+- MySQL database administration, including backups, load distribution, and cloud application configuration
 
 <!-- ---
 
@@ -71,13 +73,21 @@ Data Scientist with experience modeling large scale infrastructure, and working 
 
 ## Skills
 
-- Object Oriented Programming: C#, Python
-- Data Visualization: PowerBI, Tableau, R
+- Object Oriented and Functional Programming: C#, Python
+- Data Visualization: Grafana, PowerBI, Tableau, R
 - Scripting: Windows Powershell, Bash, Jupyter Notebooks
+- Operating Systems: Confident with software development on/for Linux, Windows, and macOS
 - Network tracing: Wireshark
-- Strong writing, documentation, and speaking skills
+- Strong writing, documentation, and speaking skills especially with regard to Agile
 - Ability to work cooperatively in a team environment
 - Confident with the Microsoft Office Suite of tools, such as Sharepoint, Dynamics, Flow (Power Automate), Excel
+
+---
+
+*References are available upon request.*
+
+<!-- ## Extras
+- International Hult Prize Competitor (2017) - Dubai -->
 
 <!-- ## Achievements
 
