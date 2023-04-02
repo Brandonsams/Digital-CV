@@ -2,7 +2,7 @@
 # Brandon Sams
 
 <!-- The unordered list immediately after the h1 will be formatted on a single line. It is intended to be used for contact details -->
-- <brandonkeithsams@gmail.com>
+- <hirebrandonsams@gmail.com>
 - (208)598-3793
 - [www.linkedin.com/in/-brandon-sams-](www.linkedin.com/in/-brandon-sams-)
 - Salt Lake City, UT
