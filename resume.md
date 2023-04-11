@@ -5,7 +5,7 @@
 - <hirebrandonsams@gmail.com>
 - (208)598-3793
 - [www.linkedin.com/in/-brandon-sams-](www.linkedin.com/in/-brandon-sams-)
-- Salt Lake City, UT
+- West Valley City, UT
 <!-- - [brandonsams.github.io](https://brandonsams.github.io/) -->
 
 <!-- The paragraph after the h1 and ul and before the first h2 is optional. It is intended to be used for a short summary. -->
@@ -25,7 +25,7 @@ Data Scientist with experience modeling large scale infrastructure, and working 
 
 ### <span>Valedictorian, Mountain Home Senior High School</span> <span>2009 -- 2013</span>
 
-## Patents
+<!-- ## Patents
 
 ### DERIVING TRAFFIC SIGNAL TIMING PLANS FROM CONNECTED VEHICLE TRAJECTORY DATA
 
@@ -33,43 +33,53 @@ Data Scientist with experience modeling large scale infrastructure, and working 
 - Reduced dependency on parter data being recieved from Advanced Traffic Management Systems
 - Tripled the count of traffic signals being modeled in the United States
 - US Patent No. US-20230013604-A1
-- Publication Date 2023-01-19
+- Publication Date 2023-01-19 -->
 
 ## Career Experience
 
-**Traffic Technology Services**: 2018 - Present
+<!-- **Traffic Technology Services**: 2018 - Present -->
 
 <!-- You have to wrap the "left" and "right" half of these headings in spans by hand -->
-### <span>Data Scientist Supervisor / Scrum Master</span> <span>September 2020 - Present</span>
+### <span>Data Scientist/DevOps Engineer at Traffic Technology Services  </span> <span>September 2020 - Present</span>
 
+- Provided API support for clients using our predictions in their CV2X and Autonomous Vehicle Applications
 - Designed, implemented, and documented an automated data pipeline for traffic signal model generation
 - Managed Big Data pipelines with performance in mind, such as with a dataset that grew by 2TB/day
-- Utilized unsupervised machine learning (EP-Means) to cluster circularly distributed statistical data
+- Utilized unsupervised machine learning to cluster circularly distributed statistical data
 - Developed automated system for monitoring prediction quality against user experience of drivers near traffic signals
-- Worked with domain experts to incorporate their feedback into predictive models
+<!-- - Worked with domain experts to incorporate their feedback into predictive models -->
 - Led Agile/Scrum processes for R&D team, including standup, sprint planning, and retrospectives
 - Promoted a culture of transparency, trust, and continuous improvement with communication and leadership skills
 <!-- - Utilized data cleaning methods to ensure model input is complete, accurate, consistent, and uniform -->
 
-### <span>DevOps Engineer</span> <span>August 2018 - September 2020</span>
+<!-- ### <span>DevOps Engineer</span> <span>August 2018 - September 2020</span> -->
 
-- Provided API support for clients using our predictions in their CV2X and Autonomous Vehicle Applications
 - Worked with agencies to establish connectivity to TTS's on-prem cloud hardware and software
-- Developed and implemented quality control metrics for traffic signal predictions against incoming status data
+<!-- - Developed and implemented quality control metrics for traffic signal predictions against incoming status data -->
 - Managed production rollout of new internal software releases, including installation and bug reporting
 - Windows Server system administration using PowerShell to manage hundreds of servers at a time
 - MySQL database administration, including backups, load distribution, and cloud application configuration
 
-<!-- ---
+---
 
-**Nordstrom Distribution Center 89**: 2018
-### <span>Seasonal Package Handler</span> <span>June 2018 - August 2018</span>
+<!-- **Nordstrom Distribution Center 89**: 2018 -->
+### <span>Seasonal Package Handler at Nordstrom Distribution Center 89</span> <span>June 2018 - August 2018</span>
 
- - Worked with teammates to unload inbound shipments
- - Prioritized safety in the workplace
- - Efficiently spent time and energy
- - Communicated with other to solve problems
- - Packed outbound orders for customers and retail stores -->
+- Worked with teammates to unload inbound shipments
+- Prioritized safety in the workplace
+- Efficiently spent time and energy
+- Communicated with other to solve problems
+- Packed outbound orders for customers and retail stores
+
+---
+
+### <span>AmeriCorps Vista at Idaho Food Bank</span> <span>June 2016 - August 2016</span>
+
+- Coordinated 25 teams of more than 50 volunteers to deliver free food to children
+- Packed hundreds of lunches each day
+- Ensured that program adhered to USDA guidelines for quality
+- Filled in for sick/missing volunteers when needed
+
 
 ## Skills
 
