@@ -9,8 +9,7 @@
 <!-- - [brandonsams.github.io](https://brandonsams.github.io/) -->
 
 <!-- The paragraph after the h1 and ul and before the first h2 is optional. It is intended to be used for a short summary. -->
-Data Scientist with experience modeling large scale infrastructure, and working on a research and development team.
-
+Looking for a place to excel in a growing, high impact, customer focused role to positively impact the lives of others.
 ## Education
 
 ### <span>Master of Science in Data Science, Bellevue University</span> <span>2019 -- 2021</span>
