@@ -2,20 +2,21 @@
 # Brandon Sams
 
 <!-- The unordered list immediately after the h1 will be formatted on a single line. It is intended to be used for contact details -->
-- <hirebrandonsams@gmail.com>
-- (208)598-3793
+<!-- - <hirebrandonsams@gmail.com> -->
+- <brandon.sams@ecstech.com>
+- (208) 598-3793
 - [www.linkedin.com/in/-brandon-sams-](www.linkedin.com/in/-brandon-sams-)
 - Salt Lake City, UT
 <!-- - [brandonsams.github.io](https://brandonsams.github.io/) -->
 
 <!-- The paragraph after the h1 and ul and before the first h2 is optional. It is intended to be used for a short summary. -->
-Data Analyst with experience modeling large scale infrastructure, and working on a research and development team.
+<!-- Data Analyst with extensive experience in business glossary development, data lineage analysis, and Agile methodologies, skilled in leveraging advanced data tools to deliver actionable insights and improve data quality. -->
 
 ## Education
 
 ### <span>Master of Science in Data Science, Bellevue University</span> <span>2019 -- 2021</span>
 
-- 3.800 GPA
+- 3.80 GPA
 
 ### <span>Bachelor of Science in Mathematics with Minor in Communication, Boise State University</span> <span>2013 -- 2017</span>
 
@@ -31,10 +32,11 @@ Data Analyst with experience modeling large scale infrastructure, and working on
 
 ### <span>VA Profile Data Analyst</span> <span>May 2023 - Present</span>
 
-- Fulfilled high-priority, high volume ad-hoc data requests for VEO Comms Team
-- Enabled accelerated turn-around times by designing, implementing, and maintaining self-service dashboard solutions
-- Investigated and tracked data quality issues for information in Customer Experience Insights
-- Designed and Implemented PowerApp solution for VEO/EMD Intake Portal, Skills Inventory, and Capacity Management System
+- Fulfilled high-priority, high volume ad-hoc data requests for VEO Communications Team
+- Accelerated turn-around times and increased data autonomy by designing, implementing, and maintaining self-service contact information dashboard
+- Investigated and tracked data quality issues as visible in Customer Experience Insights
+- Designed and Implemented Power App solution for VEO/EMD Intake Portal, Skills Inventory, and Capacity Management System
+- Exploration, aggregation, and documentation of partner systems that are connected to VA Profile
 
 ---
 
@@ -79,20 +81,19 @@ Data Analyst with experience modeling large scale infrastructure, and working on
 - Developed software that would aggregate historic GPS vehicle data and build models of traffic signal behavior
 - Reduced dependency on parter data being recieved from Advanced Traffic Management Systems
 - Tripled the count of traffic signals being modeled in the United States
-- US Patent No. US-20230013604-A1
-- Publication Date 2023-01-19
+- US Patent No. US-20230013604-A1, Publication Date: 2023-01-19
 
 ## Skills
 
-- Object Oriented and Functional Programming: C#, Python
-- Data Visualization: Grafana, PowerBI, Tableau, R
+- Object Oriented and Functional Programming: Python, C#
+<!-- - Data Visualization: Grafana, PowerBI, Tableau, R -->
 - Scripting: Windows Powershell, Bash, Jupyter Notebooks
-- Operating Systems: Confident with software development on/for Linux, Windows, and macOS
+<!-- - Operating Systems: Confident with software development on/for Linux, Windows, and macOS -->
+- Confident with the Microsoft Power Platform, including PowerApps, PowerBI, and Power Automate
 - Strong writing, documentation, and speaking skills especially with regard to Agile
-- Ability to work cooperatively in a team environment
-- Confident with the Microsoft Office Suite of tools, such as Sharepoint, Dynamics, Flow (Power Automate), Excel
+- Excellent ability to work cooperatively in a team environment
 
----
+<!-- --- -->
 <!-- ---
 
 *References are available upon request.*
