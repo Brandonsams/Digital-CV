@@ -6,7 +6,7 @@
 - <brandon.sams@ecstech.com>
 - (208) 598-3793
 - [www.linkedin.com/in/-brandon-sams-](www.linkedin.com/in/-brandon-sams-)
-- Salt Lake City, UT
+- (Remote) Salt Lake City, UT
 <!-- - [brandonsams.github.io](https://brandonsams.github.io/) -->
 
 <!-- The paragraph after the h1 and ul and before the first h2 is optional. It is intended to be used for a short summary. -->
