@@ -18,16 +18,17 @@
 
 ### <span>Data Analyst (VA Profile)</span> <span>May 2023 - Present</span>
 
-- Collected contact information for VEO Comms Annual Sexual Harassment campaign, which saved $1.68M in printing and postage by prioritizing email contact
-- Delivered contact information for VA Intent to File campaign, informing veterans of their upcoming expiring claims
-- Quickly fulfilled high-priority, large volume data requests in the event of natural disasters for VEO Comms Team
-- Accelerated turn-around times and increased data autonomy by designing, implementing, and maintaining self-service contact information dashboard
-- Investigated and tracked data quality issues as visible in Customer Experience Insights
-- Exploration, aggregation, and documentation of partner systems that are connected to VA Profile
+- Collected contact information for VEO Comms Annual Sexual Harassment campaign, which saved $1.68M in printing and postage by prioritizing contact via email. Required working with large datasets composed of millions of records. Utilized data cleaning techniques to deduplicate unnecessary records and reach the most veterans possible.
+- Facilitated VA Intent to File campaign, informing veterans of their upcoming expiring claims. This was a time-sensitive joint effort with VBA and VEO. Required comparison of contact info between VBA and VA Profile, and comprehensive logic to determine which should be used.
+- Quickly fulfilled high-priority, large volume data requests in the event of natural disasters for VEO Comms Team.
+- Accelerated turn-around times (from weeks to minutes) and increased data autonomy by designing, implementing, and maintaining self-service contact information dashboard.
+- Investigated and tracked data quality issues as visible in Customer Experience Insights.
+<!-- - Exploration, aggregation, and documentation of partner systems that are connected to VA Profile -->
+- Researched partner systems that are connected to VA Profile, and aggregated data into dashboard. Also developed process so that this dataset would continue to be updated as new partners get connected.
 
 ###  <span>Power App Developer (Enterprise Measurement and Design)</span> <span>April 2024 - Present</span>
 
-- Developed Power App solution for VEO/EMD Intake Portal, Skills Inventory, and Capacity Management System, which unified workstream across all divisions in EMD
+- Developed Power App solution for VEO/EMD Intake Portal, Skills Inventory, and Capacity Management System, which unified workstream across all divisions in EMD.
 
 ---
 
@@ -36,20 +37,20 @@
 <!-- You have to wrap the "left" and "right" half of these headings in spans by hand -->
 ### <span>Data Scientist Supervisor / Scrum Master</span> <span>September 2020 - July 2023</span>
 
-- Designed, implemented, and documented an automated data pipeline for traffic signal model generation
-- Managed Big Data pipelines with performance in mind, such as with a dataset that grew by 2TB/day
-- Utilized unsupervised machine learning (EP-Means) to cluster circularly distributed statistical data
-- Developed automated system for monitoring prediction quality against user experience of drivers near traffic signals
+- Designed, implemented, and documented an automated data pipeline for traffic signal model generation.
+- Managed Big Data pipelines with performance in mind, such as with a dataset that grew by 2TB/day.
+<!-- - Utilized unsupervised machine learning (EP-Means) to cluster circularly distributed statistical data. -->
+- Developed automated system for monitoring prediction quality against user experience.
 <!-- - Worked with domain experts to incorporate their feedback into predictive models -->
-- Led Agile/Scrum processes for R&D team, including standup, sprint planning, and retrospectives
-- Promoted a culture of transparency, trust, and continuous improvement with communication and leadership skills
+- Led Agile/Scrum processes for R&D team, including standup, sprint planning, and retrospectives.
+- Promoted a culture of transparency, trust, and continuous improvement with communication and leadership skills.
 <!-- - Utilized data cleaning methods to ensure model input is complete, accurate, consistent, and uniform -->
 
 ### <span>DevOps Engineer</span> <span>August 2018 - September 2020</span>
 
-- Provided API support for clients using our predictions in their CV2X and Autonomous Vehicle Applications
-- Worked with partner agencies to establish traffic signal connectivity for internal data pipeline
-- Managed production rollout of new internal software releases, including installation and bug reporting
+- Provided API support for partners and clients using our predictions in their CV2X/Autonomous Vehicles use cases.
+<!-- - Worked with partner agencies to establish traffic signal connectivity for internal data pipeline -->
+- Managed production rollout of new internal software releases, including installation and bug reporting.
 <!-- - Developed and implemented quality control metrics for traffic signal predictions against incoming status data -->
 <!-- - Windows Server system administration using PowerShell to manage hundreds of servers at a time -->
 <!-- - MySQL database administration, including backups, load distribution, and cloud application configuration -->
@@ -65,26 +66,29 @@
  - Communicated with other to solve problems
  - Packed outbound orders for customers and retail stores -->
 
-## Patents
+## Patents and Certifications
 
 ### DERIVING TRAFFIC SIGNAL TIMING PLANS FROM CONNECTED VEHICLE TRAJECTORY DATA
 
-- Developed software that would aggregate historic GPS vehicle data and build models of traffic signal behavior
+- Developed software that would aggregate historic GPS vehicle data and build models of traffic signal behavior.
 <!-- - Reduced dependency on parter data being recieved from Advanced Traffic Management Systems
 - Tripled the count of traffic signals being modeled in the United States -->
 - US Patent No. US-20230013604-A1, Publication Date: 2023-01-19
 
+### Certified SAFe 6 Product Owner/Product Manager
+
 ## Skills
 
-- Confident working with SQL and Python for data analysis, including with libraries and frameworks such as Pandas, Spark, Numpy, and Matplotlib in Azure Databricks environment
+- Well versed with SQL and Python for data analysis, including with libraries and frameworks such as Pandas, Spark, Numpy, and Matplotlib in Azure Databricks environment.
 <!-- - Object Oriented and Functional Programming: Python, C# -->
 <!-- - Data Visualization: Grafana, PowerBI, Tableau, R -->
 <!-- - Scripting: Windows Powershell, Bash, Jupyter Notebooks -->
 <!-- - Operating Systems: Confident with software development on/for Linux, Windows, and macOS -->
-- Experienced with the Microsoft Power Platform, including PowerApps, PowerBI, and Power Automate
-- Strong writing, documentation, and speaking skills especially with regard to Agile
-- Excellent ability to work cooperatively in a team environment
-- Genuine sense of curiosity to know how things work
+- Experienced with the Microsoft Power Platform, including Sharepoint, PowerApps, PowerBI, and Power Automate.
+<!-- - Strong writing, documentation, and speaking skills. Experienced working with confluence. -->
+- Strong documention skills, especially with building Entity-Relationship Diagrams and Confluence.
+- Excellent ability to work cooperatively in a team environment.
+<!-- - Genuine sense of curiosity to know how things work -->
 
 ## Education
 
@@ -97,8 +101,8 @@
 - 2-Time National Champion for Competitive Speech and Debate
 <!-- - 3.59 GPA -->
 <!-- - Honors College Graduate -->
-
-### <span>Valedictorian, Mountain Home Senior High School (4.0 GPA)</span> <span>2009 -- 2013</span>
+<!-- 
+### <span>Valedictorian, Mountain Home Senior High School (4.0 GPA)</span> <span>2009 -- 2013</span> -->
 
 <!-- --- -->
 <!-- ---
