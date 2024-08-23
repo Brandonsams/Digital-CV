@@ -12,6 +12,23 @@
 <!-- The paragraph after the h1 and ul and before the first h2 is optional. It is intended to be used for a short summary. -->
 <!-- Data Analyst with extensive experience in business glossary development, data lineage analysis, and Agile methodologies, skilled in leveraging advanced data tools to deliver actionable insights and improve data quality. -->
 
+Data Scientist with strong traffic signal modeling skills and a passion for creating solutions to improve transportation.
+
+<!-- Experienced Data Scientist who leverages modern predictive analytics to op traffic traffic and safety. -->
+
+<!-- Data Scientist skilled with Python and traffic signal optimization/modeling, to improve traffic safety and efficiency. -->
+
+## Patents and Certifications
+
+### DERIVING TRAFFIC SIGNAL TIMING PLANS FROM CONNECTED VEHICLE TRAJECTORY DATA
+
+- Developed software that would aggregate historic GPS vehicle data and build models of traffic signal behavior.
+- Reduced dependency on parter data being recieved from Advanced Traffic Management Systems
+- Tripled the count of traffic signals being modeled in the United States
+- US Patent No. US-20230013604-A1, Publication Date: 2023-01-19
+
+### Certified SAFe (Scaled Agile Framework for Enterprise) 6 Product Owner/Product Manager
+
 ## Career Experience
 
 **ECS Federal**: May 2023 - Present
@@ -27,16 +44,16 @@
 <!-- - Exploration, aggregation, and documentation of partner systems that are connected to VA Profile -->
 <!-- - Researched partner systems that are connected to VA Profile, and aggregated data into dashboard. Also developed process so that this dataset would continue to be updated as new partners get connected. -->
 
-###  <span>Power App Developer (Enterprise Measurement and Design)</span> <span>April 2024 - Present</span>
+###  <span>Power Platform Developer (Enterprise Measurement and Design)</span> <span>April 2024 - Present</span>
 
-- Developed full-stack Power App solution for VEO/EMD Intake Portal, Skills Inventory, and Capacity Management System, which unified workstream across all divisions in Enterprise Measurement and Design.
+- Developed full-stack Power Platform solution for VEO/EMD Intake Portal, Skills Inventory, and Capacity Management System, which unified workstream across all divisions in Enterprise Measurement and Design.
 
 ---
 
 **Traffic Technology Services**: 2018 - 2023
 
 <!-- You have to wrap the "left" and "right" half of these headings in spans by hand -->
-### <span>Data Scientist Supervisor / Scrum Master</span> <span>September 2020 - July 2023</span>
+### <span>R&D Data Scientist Supervisor / Scrum Master</span> <span>September 2020 - July 2023</span>
 
 - Designed, implemented, and documented an automated data pipeline for traffic signal model generation.
 - Managed Big Data pipelines with performance in mind, such as with a dataset that grew by 2TB/day.
@@ -52,7 +69,7 @@
 - Provided API support for partners and clients using our predictions in their CV2X/Autonomous Vehicles use cases.
 - Worked with partner agencies to establish traffic signal connectivity for internal data pipeline
 - Managed production rollout of new internal software releases, including installation and bug reporting.
-- Developed and implemented quality control metrics for traffic signal predictions against incoming status data
+<!-- - Developed and implemented quality control metrics for traffic signal predictions against incoming status data -->
 <!-- - Windows Server system administration using PowerShell to manage hundreds of servers at a time -->
 <!-- - MySQL database administration, including backups, load distribution, and cloud application configuration -->
 
@@ -67,17 +84,6 @@
  - Communicated with other to solve problems
  - Packed outbound orders for customers and retail stores -->
 
-## Patents and Certifications
-
-### DERIVING TRAFFIC SIGNAL TIMING PLANS FROM CONNECTED VEHICLE TRAJECTORY DATA
-
-- Developed software that would aggregate historic GPS vehicle data and build models of traffic signal behavior.
-- Reduced dependency on parter data being recieved from Advanced Traffic Management Systems
-- Tripled the count of traffic signals being modeled in the United States
-- US Patent No. US-20230013604-A1, Publication Date: 2023-01-19
-
-### Certified SAFe (Scaled Agile Framework for Enterprise) 6 Product Owner/Product Manager
-
 ## Skills
 
 - Well versed with SQL and Python for data analysis
@@ -89,7 +95,7 @@
 <!-- - Experienced with the Microsoft Power Platform, including Sharepoint, PowerApps, PowerBI, and Power Automate. -->
 <!-- - Strong writing, documentation, and speaking skills. Experienced working with confluence. -->
 - Strong documention skills, especially with building Entity-Relationship Diagrams and Confluence.
-- Excellent ability to work cooperatively in a team environment.
+<!-- - Excellent ability to work cooperatively in a team environment. -->
 <!-- - Genuine sense of curiosity to know how things work -->
 
 ## Education
