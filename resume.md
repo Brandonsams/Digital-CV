@@ -31,24 +31,6 @@ Data Scientist with strong traffic signal modeling skills and a passion for crea
 
 ## Career Experience
 
-**ECS Federal**: May 2023 - Present
-
-### <span>Data Analyst (VA Profile)</span> <span>May 2023 - Present</span>
-
-- Collected contact information for VEO Comms Annual Sexual Harassment campaign, which saved the Department of Veterans Affairs $1.68M in printing and postage by prioritizing contact via email.
-<!-- - Required working with large datasets composed of millions of records. Utilized data cleaning techniques to deduplicate unnecessary records and reach the most veterans possible. -->
-<!-- - Facilitated VA Intent to File campaign, informing veterans of their upcoming expiring claims. This was a time-sensitive joint effort with VBA and VEO. Required comparison of contact info between VBA and VA Profile, and comprehensive logic to determine which should be used. -->
-- Quickly fulfilled high-priority, large volume data requests in the event of natural disasters for VEO Comms Team.
-- Accelerated turn-around times (from weeks to minutes) and increased data autonomy by designing, implementing, and maintaining self-service contact information dashboard.
-<!-- - Investigated and tracked data quality issues as visible in Customer Experience Insights -->
-<!-- - Exploration, aggregation, and documentation of partner systems that are connected to VA Profile -->
-<!-- - Researched partner systems that are connected to VA Profile, and aggregated data into dashboard. Also developed process so that this dataset would continue to be updated as new partners get connected. -->
-
-###  <span>Power Platform Developer (Enterprise Measurement and Design)</span> <span>April 2024 - Present</span>
-
-- Developed full-stack Power Platform solution for VEO/EMD Intake Portal, Skills Inventory, and Capacity Management System, which unified workstream across all divisions in Enterprise Measurement and Design.
-
----
 
 **Traffic Technology Services**: 2018 - 2023
 
@@ -73,6 +55,26 @@ Data Scientist with strong traffic signal modeling skills and a passion for crea
 <!-- - Windows Server system administration using PowerShell to manage hundreds of servers at a time -->
 <!-- - MySQL database administration, including backups, load distribution, and cloud application configuration -->
 
+---
+
+**ECS Federal**: May 2023 - Present
+
+### <span>Data Analyst (VA Profile)</span> <span>May 2023 - Present</span>
+
+- Collected contact information for VEO Comms Annual Sexual Harassment campaign, which saved the Department of Veterans Affairs $1.68M in printing and postage by prioritizing contact via email.
+<!-- - Required working with large datasets composed of millions of records. Utilized data cleaning techniques to deduplicate unnecessary records and reach the most veterans possible. -->
+<!-- - Facilitated VA Intent to File campaign, informing veterans of their upcoming expiring claims. This was a time-sensitive joint effort with VBA and VEO. Required comparison of contact info between VBA and VA Profile, and comprehensive logic to determine which should be used. -->
+- Quickly fulfilled high-priority, large volume data requests in the event of natural disasters for VEO Comms Team.
+- Accelerated turn-around times (from weeks to minutes) and increased data autonomy by designing, implementing, and maintaining self-service contact information dashboard.
+<!-- - Investigated and tracked data quality issues as visible in Customer Experience Insights -->
+<!-- - Exploration, aggregation, and documentation of partner systems that are connected to VA Profile -->
+<!-- - Researched partner systems that are connected to VA Profile, and aggregated data into dashboard. Also developed process so that this dataset would continue to be updated as new partners get connected. -->
+
+###  <span>Power Platform Developer (Enterprise Measurement and Design)</span> <span>April 2024 - Present</span>
+
+- Developed full-stack Power Platform solution for VEO/EMD Intake Portal, Skills Inventory, and Capacity Management System, which unified workstream across all divisions in Enterprise Measurement and Design.
+
+<!-- --- -->
 <!-- ---
 
 **Nordstrom Distribution Center 89**: 2018
@@ -86,7 +88,7 @@ Data Scientist with strong traffic signal modeling skills and a passion for crea
 
 ## Skills
 
-- Well versed with SQL and Python for data analysis
+- Well versed with SQL and Python for data engineering, analysis, and communication
 <!-- - including with libraries and frameworks such as Pandas, Spark, Numpy, and Matplotlib -->
 <!-- - Object Oriented and Functional Programming: Python, C# -->
 - Data Visualization: Grafana, PowerBI, Tableau, R
@@ -94,8 +96,8 @@ Data Scientist with strong traffic signal modeling skills and a passion for crea
 <!-- - Operating Systems: Confident with software development on/for Linux, Windows, and macOS -->
 <!-- - Experienced with the Microsoft Power Platform, including Sharepoint, PowerApps, PowerBI, and Power Automate. -->
 <!-- - Strong writing, documentation, and speaking skills. Experienced working with confluence. -->
-- Strong documention skills, especially with building Entity-Relationship Diagrams and Confluence.
-<!-- - Excellent ability to work cooperatively in a team environment. -->
+<!-- - Strong documention skills, especially with building Entity-Relationship Diagrams and Confluence. -->
+- Excellent ability to work cooperatively in a fast-paced, dynamic team environment.
 <!-- - Genuine sense of curiosity to know how things work -->
 
 ## Education
