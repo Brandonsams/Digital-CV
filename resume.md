@@ -2,8 +2,8 @@
 # Brandon Sams
 
 <!-- The unordered list immediately after the h1 will be formatted on a single line. It is intended to be used for contact details -->
-<!-- - <hirebrandonsams@gmail.com> -->
-- <brandon.sams@ecstech.com>
+- <hirebrandonsams@gmail.com>
+<!-- - <brandon.sams@ecstech.com> -->
 - (208) 598-3793
 - [www.linkedin.com/in/-brandon-sams-](www.linkedin.com/in/-brandon-sams-)
 - (Remote) Salt Lake City, UT
@@ -14,7 +14,7 @@
 
 ## Career Experience
 
-**ECS**: May 2023 - Present
+**ECS Federal**: May 2023 - Present
 
 ### <span>Data Analyst (VA Profile)</span> <span>May 2023 - Present</span>
 
