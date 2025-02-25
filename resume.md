@@ -6,11 +6,13 @@
 - <hirebrandonsams@gmail.com>
 - (208) 598-3793
 - [www.linkedin.com/in/-brandon-sams-](www.linkedin.com/in/-brandon-sams-)
-- (Remote) Salt Lake City, UT
+- South Salt Lake, UT
 <!-- - [brandonsams.github.io](https://brandonsams.github.io/) -->
 
 <!-- The paragraph after the h1 and ul and before the first h2 is optional. It is intended to be used for a short summary. -->
 <!-- Data Analyst with extensive experience in business glossary development, data lineage analysis, and Agile methodologies, skilled in leveraging advanced data tools to deliver actionable insights and improve data quality. -->
+
+Seeking part time work. Available after 4:00 pm on weekdays, and anytime on weekends.
 
 ## Career Experience
 
@@ -75,7 +77,7 @@
 - Tripled the count of traffic signals being modeled in the United States -->
 - US Patent No. US-20230013604-A1, Publication Date: 2023-01-19
 
-### Certified SAFe 6 Product Owner/Product Manager
+<!-- ### Certified SAFe 6 Product Owner/Product Manager -->
 
 ## Skills
 
