@@ -35,7 +35,7 @@ Results-driven Web Application Developer with 7+ years of experience in developi
 <!-- - Exploration, aggregation, and documentation of partner systems that are connected to VA Profile -->
 <!-- - Researched partner systems that are connected to VA Profile, and aggregated data into dashboard. Also developed process so that this dataset would continue to be updated as new partners get connected. -->
 
-###  <span>Power App Developer (Enterprise Measurement and Design)</span> <span>April 2024 - Present</span>
+###  <span>Power App Developer (Enterprise Measurement and Design)</span> <span>April 2024 - September 2024</span>
 
 - Developed a full-stack Power App solution for VEO/EMD Intake Portal, Skills Inventory, and Capacity Management System, which unified workstream across all divisions in EMD.
 - Worked on an agile team to ensure high output velocity that is consistent with stakeholder needs.
