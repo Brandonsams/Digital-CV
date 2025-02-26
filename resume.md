@@ -3,23 +3,27 @@
 
 <!-- The unordered list immediately after the h1 will be formatted on a single line. It is intended to be used for contact details -->
 <!-- - <brandon.sams@ecstech.com> -->
+- <brandon.sams@ecstech.com>
 - <hirebrandonsams@gmail.com>
 - (208) 598-3793
 - [www.linkedin.com/in/-brandon-sams-](www.linkedin.com/in/-brandon-sams-)
-- (Remote) Salt Lake City, UT
+<!-- - (Remote) Salt Lake City, UT -->
 <!-- - [brandonsams.github.io](https://brandonsams.github.io/) -->
 
+
+## Summary
 <!-- The paragraph after the h1 and ul and before the first h2 is optional. It is intended to be used for a short summary. -->
 <!-- Data Analyst with extensive experience in business glossary development, data lineage analysis, and Agile methodologies, skilled in leveraging advanced data tools to deliver actionable insights and improve data quality. -->
 Results-driven Web Application Developer with 7+ years of experience in developing, testing, and implementing complex systems in Microsoft web environments. Skilled in ASP.NET, Python, SQL Server, Visual Studio, and IIS. Passionate about leveraging emerging technologies to drive innovative solutions for complex challenges in defense and civilian sectors.
 
 ## Career Experience
 
-**ECS Federal (Department of Veterans Affairs)**: May 2023 - Present
+**ECS Federal (Department of Veterans Affairs, VEO)**: May 2023 - Present
 
-### <span>Senior Data Analyst</span> <span>May 2023 - Present</span>
+### <span>Senior Technical Analyst (Multi-Channel Technology) </span> <span>May 2023 - Present</span>
 
-- Read and understood source code and technical documentation for diverse systems across the VA. Used this understanding to construct enterprise data lineage as an effort to facilitate effective data governance for any and all demographic data.
+- Acquired technical domain knowledge and system expertise to construct enterprise data lineage as an effort to facilitate effective data governance for any and all demographic data.
+<!-- - Read and understood source code and technical documentation for diverse systems across the VA. Used this understanding to construct enterprise data lineage as an effort to facilitate effective data governance for any and all demographic data. -->
 - Accelerated turn-around times (from weeks to minutes) and increased data autonomy by designing, implementing, and maintaining self-service contact information dashboard. This solution was used to quickly fulfill high-priority, large volume data requests in the event of natural disasters for VEO Comms Team. Required integration between SQL Server and Power BI.
 <!-- - Constructed data lineage diagrams for systems across the VA to ensure effective -->
 
@@ -41,7 +45,7 @@ Results-driven Web Application Developer with 7+ years of experience in developi
 **Traffic Technology Services**: 2018 - 2023
 
 <!-- You have to wrap the "left" and "right" half of these headings in spans by hand -->
-### <span>Data Scientist Supervisor / Scrum Master</span> <span>September 2020 - July 2023</span>
+### <span>Software Development Supervisor / Scrum Master</span> <span>September 2020 - July 2023</span>
 
 - Developed enterprise web applications using C#, ASP.NET, Visual Studio, IIS, and MySQL.
 - Designed, implemented, and documented an automated data pipeline for AI model generation.
@@ -73,7 +77,7 @@ Results-driven Web Application Developer with 7+ years of experience in developi
  - Communicated with other to solve problems
  - Packed outbound orders for customers and retail stores -->
 
-## Patents and Certifications
+## Patents
 
 ### DERIVING TRAFFIC SIGNAL TIMING PLANS FROM CONNECTED VEHICLE TRAJECTORY DATA
 
@@ -87,14 +91,14 @@ Results-driven Web Application Developer with 7+ years of experience in developi
 ## Skills
 
 - Object Oriented and Functional Programming: Python, C#
-- Well versed with SQL and Python for data analysis, including with libraries and frameworks such as Pandas, Spark, Numpy, and Matplotlib in Azure Databricks environment.
+- Well versed with SQL and Python for data engineering, including with libraries and frameworks such as Pandas, Spark, Numpy, and Matplotlib in Azure Databricks environment.
 - Scripting: Windows Powershell, Bash, Jupyter Notebooks
 <!-- - Data Visualization: Grafana, PowerBI, Tableau, R -->
 <!-- - Operating Systems: Confident with software development on/for Linux, Windows, and macOS -->
 <!-- - Experienced with the Microsoft Power Platform, including Sharepoint, PowerApps, PowerBI, and Power Automate. -->
 <!-- - Strong writing, documentation, and speaking skills. Experienced working with confluence. -->
 <!-- - Strong documention skills, especially with building Entity-Relationship Diagrams and Confluence. -->
-- Excellent ability to work cooperatively in a team environment.
+<!-- - Excellent ability to work cooperatively in a team environment. -->
 <!-- - Genuine sense of curiosity to know how things work -->
 
 ## Education
