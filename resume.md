@@ -20,7 +20,7 @@ Results-driven Web Application Developer with 7+ years of experience in developi
 
 **ECS Federal (Department of Veterans Affairs, VEO)**: May 2023 - Present
 
-### <span>Senior Technical Analyst (Multi-Channel Technology) </span> <span>May 2023 - Present</span>
+### <span>Senior Data Analyst (Multi-Channel Technology) </span> <span>May 2023 - Present</span>
 
 - Acquired technical domain knowledge and system expertise to construct enterprise data lineage as an effort to facilitate effective data governance for any and all demographic data.
 <!-- - Read and understood source code and technical documentation for diverse systems across the VA. Used this understanding to construct enterprise data lineage as an effort to facilitate effective data governance for any and all demographic data. -->
