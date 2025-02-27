@@ -18,7 +18,7 @@ Data Scientist with strong traffic signal modeling skills and a passion for crea
 
 <!-- Data Scientist skilled with Python and traffic signal optimization/modeling, to improve traffic safety and efficiency. -->
 
-## Patents and Certifications
+## Patents
 
 ### DERIVING TRAFFIC SIGNAL TIMING PLANS FROM CONNECTED VEHICLE TRAJECTORY DATA
 
@@ -27,7 +27,7 @@ Data Scientist with strong traffic signal modeling skills and a passion for crea
 - Tripled the count of traffic signals being modeled in the United States
 - US Patent No. US-20230013604-A1, Publication Date: 2023-01-19
 
-### Certified SAFe (Scaled Agile Framework for Enterprise) 6 Product Owner/Product Manager
+<!-- ### Certified SAFe (Scaled Agile Framework for Enterprise) 6 Product Owner/Product Manager -->
 
 ## Career Experience
 
@@ -59,8 +59,9 @@ Data Scientist with strong traffic signal modeling skills and a passion for crea
 
 **ECS Federal**: May 2023 - Present
 
-### <span>Data Analyst (VA Profile)</span> <span>May 2023 - Present</span>
+### <span>Senior Data Analyst (VA Profile)</span> <span>May 2023 - Present</span>
 
+- Acquired technical domain knowledge and system expertise to construct enterprise data lineage as an effort to facilitate effective data governance for any and all demographic data.
 - Collected contact information for VEO Comms Annual Sexual Harassment campaign, which saved the Department of Veterans Affairs $1.68M in printing and postage by prioritizing contact via email.
 <!-- - Required working with large datasets composed of millions of records. Utilized data cleaning techniques to deduplicate unnecessary records and reach the most veterans possible. -->
 <!-- - Facilitated VA Intent to File campaign, informing veterans of their upcoming expiring claims. This was a time-sensitive joint effort with VBA and VEO. Required comparison of contact info between VBA and VA Profile, and comprehensive logic to determine which should be used. -->
