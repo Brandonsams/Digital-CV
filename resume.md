@@ -3,10 +3,11 @@
 
 <!-- The unordered list immediately after the h1 will be formatted on a single line. It is intended to be used for contact details -->
 <!-- - <brandon.sams@ecstech.com> -->
-- <brandon.sams@ecstech.com>
+<!-- - <brandon.sams@ecstech.com> -->
 - <hirebrandonsams@gmail.com>
 - (208) 598-3793
 - [www.linkedin.com/in/-brandon-sams-](www.linkedin.com/in/-brandon-sams-)
+- Salt Lake City, UT
 <!-- - (Remote) Salt Lake City, UT -->
 <!-- - [brandonsams.github.io](https://brandonsams.github.io/) -->
 
@@ -14,7 +15,10 @@
 ## Summary
 <!-- The paragraph after the h1 and ul and before the first h2 is optional. It is intended to be used for a short summary. -->
 <!-- Data Analyst with extensive experience in business glossary development, data lineage analysis, and Agile methodologies, skilled in leveraging advanced data tools to deliver actionable insights and improve data quality. -->
-Results-driven Web Application Developer with 7+ years of experience in developing, testing, and implementing complex systems in Microsoft web environments. Skilled in ASP.NET, Python, SQL Server, Visual Studio, and IIS. Passionate about leveraging emerging technologies to drive innovative solutions for complex challenges in defense and civilian sectors.
+<!-- Results-driven Web Application Developer with 7+ years of experience in developing, testing, and implementing complex systems in Microsoft web environments. Skilled in ASP.NET, Python, SQL Server, Visual Studio, and IIS. Passionate about leveraging emerging technologies to drive innovative solutions for complex challenges in defense and civilian sectors. -->
+
+Data and software professional with 7+ years of experience in data architecture, engineering, operations, and analytics. Skilled in designing scalable data solutions, optimizing data pipelines, and implementing data governance best practices. 
+<!-- Passionate about solving complex problems and driving business insights. -->
 
 ## Career Experience
 
@@ -45,7 +49,7 @@ Results-driven Web Application Developer with 7+ years of experience in developi
 **Traffic Technology Services**: 2018 - 2023
 
 <!-- You have to wrap the "left" and "right" half of these headings in spans by hand -->
-### <span>Software Development Supervisor / Scrum Master</span> <span>September 2020 - July 2023</span>
+### <span>Data Scientist (Supervisor / Scrum Master)</span> <span>September 2020 - July 2023</span>
 
 - Developed enterprise web applications using C#, ASP.NET, Visual Studio, IIS, and MySQL.
 - Designed, implemented, and documented an automated data pipeline for AI model generation.
