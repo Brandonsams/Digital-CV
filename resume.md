@@ -22,7 +22,7 @@ Data and software professional with 7+ years of experience in data architecture,
 
 ## Career Experience
 
-**ECS Federal (Department of Veterans Affairs, VEO)**: May 2023 - Present
+**ECS Federal (Department of Veterans Affairs, Veterans Experience Office)**: May 2023 - Present
 
 ### <span>Senior Data Analyst (Multi-Channel Technology) </span> <span>May 2023 - Present</span>
 
@@ -41,7 +41,7 @@ Data and software professional with 7+ years of experience in data architecture,
 
 ###  <span>Power App Developer (Enterprise Measurement and Design)</span> <span>April 2024 - September 2024</span>
 
-- Developed a full-stack Power App solution for VEO/EMD Intake Portal, Skills Inventory, and Capacity Management System, which unified workstream across all divisions in EMD.
+- Developed a full-stack Power App solution for VEO/EMD Intake Portal, Skills Inventory, and Capacity Management System, which unified workstreams across all divisions in EMD.
 - Worked on an agile team to ensure high output velocity that is consistent with stakeholder needs.
 
 ---
@@ -86,8 +86,8 @@ Data and software professional with 7+ years of experience in data architecture,
 ### DERIVING TRAFFIC SIGNAL TIMING PLANS FROM CONNECTED VEHICLE TRAJECTORY DATA
 
 - Developed software that would aggregate historic GPS vehicle data and build models of traffic signal behavior.
-<!-- - Reduced dependency on parter data being recieved from Advanced Traffic Management Systems
-- Tripled the count of traffic signals being modeled in the United States -->
+- Reduced dependency on parter data being recieved from Advanced Traffic Management Systems.
+<!-- - Tripled the count of traffic signals being modeled in the United States  -->
 - US Patent No. US-20230013604-A1, Publication Date: 2023-01-19
 
 <!-- ### Certified SAFe 6 Product Owner/Product Manager -->
